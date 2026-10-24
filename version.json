@@ -1,0 +1,6 @@
+{
+    "versionCode": 2,
+    "versionName": "1.1",
+    "apkUrl": "https://raw.githubusercontent.com/gswraymondcristobal-star/Trade-Presenter/main/app-release.apk",
+    "releaseNotes": "Added new gallery swipe gestures, zoom support, and dark mode UI."
+}
